@@ -16,7 +16,8 @@
 .inputEle{
     height: 25px;
     width: 90%;
-    border-radius: 0.2px;
+    border-width: 0.2px;
+    border-radius: 5px;
     margin-bottom: 10px;
 }
 .inputtext{
@@ -33,7 +34,9 @@
     height: 30px;
     width: 100px;
     border-radius: 5px;
-    background-color: rgb(214, 236, 94);
+    background-color: rgb(70, 188, 234);
     font-size: 20px;
     font-family: roboto;
+    color: beige;
+    border-width: 1px;
 }
